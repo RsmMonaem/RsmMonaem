@@ -1,4 +1,4 @@
-<!-- ## Hi there! I'm Arafat Hossain Ar👋. -->
+<!-- ## Hi there! I'm Mohammad Munayam Sowdagor 👋. -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat-web&label=Profile%20views&color=0e75b6&style=flat" alt="arafat-web" /> </p> -->
@@ -22,18 +22,19 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Laravel Projects.
+-  🔭 I’m currently working on Coadignitor Projects.
 - 🌱 I’m currently learning Vue and API development.
 - 👯 I’m looking to collaborate with Laravel and API related things.
-- 💬 Ask me about PHP, Laravel, SQL, MySQL, JAVA, JAVAFX, JSP.
+- 💬 Ask me about PHP, Laravel, Coadignitor SQL, MySQL, JAVA, JAVAFX, JSP.
 - 💻 Student of Computer Science and Engineering.
--  📍 Rajshahi, Bangladesh
+-  📍 Sherpur, Bangladesh
 
 <h3><summary>:zap: Connect with me:</summary></h3>
 
-[<img align="left" alt="Arafat | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Arafat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Arafat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Arafat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Rsm_Monaem | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Rsm_MonaemRsm_MonaemRsm_Monaem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Rsm_MonaemRsm_Monaem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rsm_Monaem | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <h3><summary>:zap: Languages and Tools:</summary></h3>
@@ -80,9 +81,10 @@ Here are some ideas to get you started:
 <h2>Please give me a [⭐️] if you like my projects!</h2>
 
 
-[arafat-hossain-ar]: https://github.com/arafat-web
-[twitter]: https://twitter.com/arafat_hossain0
-[facebook]: https://www.facebook.com/arafathossain000/
-[instagram]: https://www.instagram.com/arafat_hossain_ar/
-[linkedin]: https://www.linkedin.com/in/arafat-hossain-ar-a174b51a6/
+[arafat-hossain-ar]: https://github.com/rsmmonaem
+[twitter]: https://twitter.com/rsmmonaem
+[facebook]: https://www.facebook.com/rsmmonaemid
+/
+[instagram]: https://www.instagram.com/rsmmonaem/
+[linkedin]: https://www.linkedin.com/in/rsmmonaem/
 [⭐️]: https://github.com/arafat-web?tab=repositories
